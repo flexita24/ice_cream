@@ -1,0 +1,197 @@
+.background{
+    width: 1289.916px;
+
+    flex-shrink: 0;
+    display: flex;
+}
+@font-face {
+    font-family: 'Grandstander Regular';
+    src: url('Grandstander-Regular.eot');
+    src: url('Grandstander-Regular.eot?#iefix') format('embedded-opentype'),
+    url('Grandstander-Regular.woff') format('woff'),
+    url('Grandstander-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+.navbar{
+    width: 1223px;
+    height: 121px;
+    flex-shrink: 0;
+    border-radius: 100px;
+    border: 2px solid #000;
+    background: #FFF;
+    margin-top: -1035px;
+    margin-left: 345px;
+    position: relative;
+    display: flex;
+}
+.home{
+    color: #000;
+    font-size: 30px;
+    font-family: 'Grandstander Regular';
+    text-decoration: none;
+    padding-top: 44px;
+    padding-left: 70px;
+}
+.about{
+
+    color: #000;
+    font-size: 30px;
+    font-family: 'Grandstander Regular';
+    text-decoration: none;
+    padding-top: 44px;
+    padding-left: 28px;
+}
+.product{
+    color: #000;
+    font-size: 30px;
+    font-family: 'Grandstander Regular';
+    text-decoration: none;
+    padding-top: 44px;
+    padding-left: 28px;
+}
+.logo{
+    padding-left: 37px;
+    padding-top: -44px;
+    width: 219px;
+    height: 199px;
+    flex-shrink: 0;
+}
+.flavours{
+    color: #000;
+    font-size: 30px;
+    font-family: 'Grandstander Regular';
+    text-decoration: none;
+    padding-top: 44px;
+    padding-left: 28px;
+}
+.contact{
+    color: #000;
+    font-size: 30px;
+    font-family: 'Grandstander Regular';
+    text-decoration: none;
+    padding-top: 44px;
+    padding-left: 28px;
+}
+.home:hover, 
+.about:hover, 
+.product:hover, 
+.flavours:hover, 
+.contact:hover{
+    color: green;
+}
+.heart{
+    width: 45px;
+    height: 45px;
+    flex-shrink: 0;
+    padding-top: 34px;
+    padding-left: 28px;
+}
+.shopping_cart{
+    width: 55px;
+    height: 55px;
+    flex-shrink: 0;
+    padding-top: 29px;
+    padding-left: 23px;
+}
+.heading{
+    display: flex;
+    width: 629.221px;
+    height: 286px;
+    transform: rotate(1.032deg);
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #000;
+    text-shadow: 10px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    font-size: 128px;
+    font-family: 'Grandstander Regular';
+    margin-top: -3px;
+    margin-left: 266px;
+}
+.txt{
+    display: flex;
+    width: 534px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #000;
+    font-size: 20px;
+    font-family: Grandstander Regular;
+    line-height: 34px;
+    margin-top: 210px;
+    margin-left: 282px;
+}
+.main_img{
+    width: 720px;
+    height: 611px;
+    flex-shrink: 0;
+    box-shadow: 10px 10px 10px 0px rgba(0, 0, 0, 0.10);
+    margin-top: -676px;
+    margin-left: 942px;
+}
+.learn{
+    width: 337px;
+    height: 100px;
+    flex-shrink: 0;
+    border-radius: 100px;
+    border: 3px solid #000;
+    background: #F3CB60;
+    margin-top: 72px;
+    margin-left: 282px;
+}
+.learn:hover{
+    background-color: rgb(254, 177, 190);
+    border: 3px solid green;
+}
+.learn p{
+    color: #000;
+    text-align: center;
+    font-size: 28px;
+    font-family: Grandstander Regular;
+    font-weight: 500;
+    letter-spacing: 3.36px;
+
+}
+.ic1{
+    width: 49px;
+    height: 87.803px;
+    flex-shrink: 0;
+    margin-top: -445px;
+    margin-left: 734px;
+}
+.ic2{
+    width: 26.958px;
+    height: 48.307px;
+    flex-shrink: 0;
+    margin-top: -48px;
+    margin-left: 685px;
+}
+.ic3{
+    width: 26.958px;
+    height: 48.307px;
+    flex-shrink: 0;
+    transform: rotate(25deg);
+    margin-top: 9px;
+    margin-left: 747px;
+}
+.raibow{
+    width: 215.741px;
+    height: 161.715px;
+    flex-shrink: 0;
+    margin-left: 1450px;
+    margin-top: 160px;
+    position: relative;
+}
+.group{
+    width: 59.106px;
+    height: 51.398px;
+    flex-shrink: 0;
+    margin-left: 1460px;
+    margin-top: -40px;
+}
+.group2{
+    width: 59.106px;
+    height: 51.398px;
+    flex-shrink: 0;
+    margin-left: 1580px;
+    margin-top: -10px;
+}
